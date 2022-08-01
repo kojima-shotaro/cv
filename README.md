@@ -21,5 +21,5 @@ Build Status
 Download
 ---------
 
-Download the [Latest Release of my CV](https://github.com/gkthiruvathukal/cv/releases/latest/download/gkthiruvathukal-cv.pdf) 
+Download the [Latest Release of my CV](https://github.com/kojima-shotaro/cv/releases/latest/download/gkthiruvathukal-cv.pdf) 
 
